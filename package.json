@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "start": "astro preview --host 0.0.0.0 --port 8000"
   },
   "dependencies": {
     "astro": "^6.3.6"
